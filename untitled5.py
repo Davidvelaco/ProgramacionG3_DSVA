@@ -1,12 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 16 12:09:49 2022
+Created on Thu Jun 30 11:16:39 2022
 
 @author: DAVID
 """
-import math
-x=int(input("Ingrese x: "))
-y=0
-for i in range(1,x+1):
-    y=x-
-print("la suma total es: ",y)
+
+a=5
+b=2
+print("hola imprimo {} y luego imprimo {}".format(a, b))
